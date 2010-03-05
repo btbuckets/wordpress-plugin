@@ -15,7 +15,7 @@
   come to life on your blog, without touching a single line of wordpress code,
   nor from it's templates.
 
-  More info on: 
+  More info on: http://community.btbuckets.com/profiles/blogs/new-feature-wordpress-plugin
 
 == Development ==
 
